@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">prueba</string>
+    <string name="motivo_a">Examen medico ocupacional</string>
+    <string name="motivo_b">Examen de maenejo</string>
+    <string name="motivo_c">Examen programado para hoy</string>
+
+    <string name="tiempo_a">justo ahora</string>
+    <string name="tiempo_b">hace una hora</string>
+    <string name="tiempo_c">hace un momento</string>
+</resources>
